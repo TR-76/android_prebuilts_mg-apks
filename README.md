@@ -5,7 +5,7 @@ This is a collection of FOSS APKs, coupled with the respective Android.mk. These
 This was created for my personal use.
 
 The included APKs are:
-* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore/tags): Client for FDroid repository. Includes additionally the microG FDroid repository XML file
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore/tags): Unofficial FOSS client to Google's Play Store. Includes additionally priv-app permission whitelisting
 * [FDroid](https://f-droid.org/packages/org.fdroid.fdroid): Client for FDroid repository. Includes additionally the microG FDroid repository XML file
 * [FDroid Privileged Extension](https://f-droid.org/packages/org.fdroid.fdroid.privileged): a FDroid extension to ease the installation/removal of apps
 * Microg base ([GmsCore, FakeStore, GsfProxy](https://microg.org/download.html)) to mimic google services framework
@@ -22,9 +22,10 @@ The included APKs are:
 * [Simple Keyboard](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod) to replace AOSP LatinIME
 
 Thanks to:
-- Romain Hunault (https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks)
-- Lineageos 4microg (https://github.com/lineageos4microg/android_prebuilts_prebuiltapks)
-- Nanolx (https://gitlab.com/Nanolx/NanoDroid)
-- ale5000 (https://github.com/micro5k/microg-unofficial-installer)
-- chris42 (https://github.com/chris42/android_prebuilts_prebuiltapks)
-- Mse1969 (https://github.com/MSe1969/android_prebuilts_prebuiltapks / (https://github.com/MSe1969/AuroraStore-prebuilt)
+- Romain Hunault ([android_prebuilts_prebuiltapks](https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks))
+- Lineageos 4microg ([android_prebuilts_prebuiltapks](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks))
+- Nanolx ([NanoDroid](https://gitlab.com/Nanolx/NanoDroid))
+- ale5000 ([microg-unofficial-installer](https://github.com/micro5k/microg-unofficial-installer))
+- chris42 ([android_prebuilts_prebuiltapks](https://github.com/chris42/android_prebuilts_prebuiltapks))
+- Mse1969 ([android_prebuilts_prebuiltapks](https://github.com/MSe1969/android_prebuilts_prebuiltapks))
+- Mse1969 ([AuroraStore-prebuilt](https://github.com/MSe1969/android_prebuilts_prebuiltapks))
