@@ -13,7 +13,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
    AppleNlpBackend \
    AuroraStore \
-   AuroraServices \
    com.google.android.maps.jar \
    DejaVuNlpBackend \
    FakeStore \
