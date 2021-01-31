@@ -28,4 +28,4 @@ Thanks to:
 - ale5000 ([microg-unofficial-installer](https://github.com/micro5k/microg-unofficial-installer))
 - chris42 ([android_prebuilts_prebuiltapks](https://github.com/chris42/android_prebuilts_prebuiltapks))
 - Mse1969 ([android_prebuilts_prebuiltapks](https://github.com/MSe1969/android_prebuilts_prebuiltapks))
-- Mse1969 ([AuroraStore-prebuilt](https://github.com/MSe1969/android_prebuilts_prebuiltapks))
+- Mse1969 ([AuroraStore-prebuilt](https://github.com/MSe1969/AuroraStore-prebuilt))
