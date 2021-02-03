@@ -15,7 +15,7 @@ The included APKs are:
    * [Mozilla](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea) and [Apple](https://f-droid.org/packages/org.microg.nlp.backend.apple) backends use the respecive online databases
    * [Nominatim](https://f-droid.org/packages/org.microg.nlp.backend.nominatim) backend using the MapQuest online service for adress location
    
-* [BromiteSystemWebView](https://github.com/bromite/bromite) to replace regular AOSP webview
+* [BromiteSystemWebView (arm64)](https://github.com/bromite/bromite) to replace regular AOSP webview
 * [Etar Calendar](https://f-droid.org/packages/ws.xsoh.etar) to replace AOSP Calendar
 * [K9-Mail](https://f-droid.org/packages/com.fsck.k9) to replace AOSP Email
 * [QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS) to replace AOSP Sms
