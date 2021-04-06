@@ -18,6 +18,7 @@ The included APKs are:
 * [BromiteSystemWebView](https://github.com/bromite/bromite) to replace regular AOSP webview
 * [Etar Calendar](https://f-droid.org/packages/ws.xsoh.etar) to replace AOSP Calendar
 * [K9-Mail](https://f-droid.org/packages/com.fsck.k9) to replace AOSP Email
+* [Privacy Browser](https://www.stoutner.com/privacy-browser/changelog) to replace Browsers
 * [QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS) to replace AOSP Sms
 * [Simple Keyboard](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod) to replace AOSP LatinIME
 

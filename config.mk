@@ -15,6 +15,11 @@ PRODUCT_PACKAGES += \
     K9Mail
 endif
 
+ifneq ($(TARGET_EXCLUDES_PREBUILT_PRIVACY_BROWSER),true)
+PRODUCT_PACKAGES += \
+    PrivacyBrowser
+endif
+
 ifneq ($(TARGET_EXCLUDES_PREBUILT_QKSMS),true)
 PRODUCT_PACKAGES += \
     QKSMS
