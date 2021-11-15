@@ -36,8 +36,8 @@ PRODUCT_PACKAGES += \
    AuroraStore \
    com.google.android.maps.jar \
    DejaVuNlpBackend \
+   Droidify \
    FakeStore \
-   FDroid \
    GmsCore \
    GsfProxy \
    LocalGSMNlpBackend \

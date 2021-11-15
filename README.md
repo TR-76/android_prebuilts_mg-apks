@@ -6,8 +6,7 @@ This was created for my personal use.
 
 The included APKs are:
 * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore/tags): Unofficial FOSS client to Google's Play Store. Includes additionally priv-app permission whitelisting
-* [FDroid](https://f-droid.org/packages/org.fdroid.fdroid): Client for FDroid repository. Includes additionally the microG FDroid repository XML file
-* [FDroid Privileged Extension](https://f-droid.org/packages/org.fdroid.fdroid.privileged): a FDroid extension to ease the installation/removal of apps
+* [Droid-Ify](https://android.izzysoft.de/repo/apk/com.looker.droidify): Unofficial F-Droid client with Material UI
 * Microg base ([GmsCore, FakeStore, GsfProxy](https://microg.org/download.html)) to mimic google services framework
 * [com.google.android.maps](https://github.com/microg/android_frameworks_mapsv1): legacy microG's mapsv1 reimplementation
 * Multiple UnifiedNlp backends to choose from:
