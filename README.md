@@ -1,6 +1,6 @@
 # Prebuilt APKs
 
-This is a collection of FOSS APKs, coupled with the respective Android.mk. These are just the official unmodified prebuilt binaries. In case from microg from the microg website, in other cases from fdroid to allow update via fdroid. The microg repository is added to fdroid to allow updates if needed.
+This is a collection of FOSS APKs, coupled with the respective Android.mk. These are just the official unmodified prebuilt binaries. In case from microg from the microg website, in other cases from fdroid to allow update via fdroid.
 
 This was created for my personal use.
 
