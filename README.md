@@ -17,10 +17,7 @@ The included APKs are:
 * [BromiteSystemWebView](https://github.com/bromite/bromite) to replace regular AOSP webview
 
 Thanks to:
-- Romain Hunault ([android_prebuilts_prebuiltapks](https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks))
-- Lineageos 4microg ([android_prebuilts_prebuiltapks](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks))
-- Nanolx ([NanoDroid](https://gitlab.com/Nanolx/NanoDroid))
-- ale5000 ([microg-unofficial-installer](https://github.com/micro5k/microg-unofficial-installer))
-- chris42 ([android_prebuilts_prebuiltapks](https://github.com/chris42/android_prebuilts_prebuiltapks))
+- /e/OS ([android_prebuilts_prebuiltapks_lfs](https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks_lfs))
+- Lineageos 4microg ([android_vendor_partner_gms](https://github.com/lineageos4microg/android_vendor_partner_gms))
 - Mse1969 ([android_prebuilts_prebuiltapks](https://github.com/MSe1969/android_prebuilts_prebuiltapks))
 - Mse1969 ([AuroraStore-prebuilt](https://github.com/MSe1969/AuroraStore-prebuilt))
