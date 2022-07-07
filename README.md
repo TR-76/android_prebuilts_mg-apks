@@ -6,7 +6,7 @@ This was created for my personal use.
 
 The included APKs are:
 * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore/tags): Unofficial FOSS client to Google's Play Store.
-* [Droid-Ify](https://android.izzysoft.de/repo/apk/com.looker.droidify): Unofficial F-Droid client with Material UI
+* [Droid-Ify](https://github.com/Iamlooker/Droid-ify): Unofficial F-Droid client with Material UI
 * Microg base ([GmsCore, FakeStore, GsfProxy](https://microg.org/download.html)) to mimic google services framework
 * [com.google.android.maps](https://github.com/microg/android_frameworks_mapsv1): legacy microG's mapsv1 reimplementation
 * Multiple UnifiedNlp backends to choose from:
