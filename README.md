@@ -8,7 +8,6 @@ The included APKs are:
 * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore/tags): Unofficial FOSS client to Google's Play Store.
 * [Droid-Ify](https://github.com/Iamlooker/Droid-ify): Unofficial F-Droid client with Material UI
 * Microg base ([GmsCore, FakeStore, GsfProxy](https://microg.org/download.html)) to mimic google services framework
-* [com.google.android.maps](https://github.com/microg/android_frameworks_mapsv1): legacy microG's mapsv1 reimplementation
 * Multiple UnifiedNlp backends to choose from:
    * [DejaVu](https://f-droid.org/packages/org.fitchfamily.android.dejavu), [LocalGSM](https://f-droid.org/packages/org.fitchfamily.android.gsmlocation), [WLAN](https://f-droid.org/packages/org.fitchfamily.android.wifi_backend) backends are completely on device
    * [Mozilla](https://f-droid.org/packages/org.microg.nlp.backend.ichnaea) and [Apple](https://f-droid.org/packages/org.microg.nlp.backend.apple) backends use the respecive online databases
