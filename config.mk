@@ -9,14 +9,10 @@ endif
 
 # MicroG Packages    
 PRODUCT_PACKAGES += \
-   AppleNlpBackend \
    AuroraStore \
-   DejaVuNlpBackend \
    Droidify \
    FakeStore \
    GmsCore \
    GsfProxy \
    IchnaeaNlpBackend  \
-   LocalGSMNlpBackend \
-   NominatimNlpBackend \
-   WLANNlpBackend
+   NominatimNlpBackend
