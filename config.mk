@@ -6,6 +6,4 @@ PRODUCT_PACKAGES += \
    Droidify \
    FakeStore \
    GmsCore \
-   GsfProxy \
-   IchnaeaNlpBackend  \
-   NominatimNlpBackend
+   GsfProxy
