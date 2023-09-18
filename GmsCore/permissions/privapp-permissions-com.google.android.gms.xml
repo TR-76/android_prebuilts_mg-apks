@@ -18,5 +18,6 @@
             <permission name="android.permission.NETWORK_SCAN"/>
             <permission name="android.permission.UPDATE_DEVICE_STATS"/>
             <permission name="android.permission.WATCH_APPOPS"/>
+            <permission name="android.permission.RECEIVE_SMS"/>
         </privapp-permissions>
     </permissions>
