@@ -50,4 +50,8 @@ LOCAL_PREBUILT_JNI_LIBS_arm64 := @lib/arm64-v8a/libwebviewchromium.so
 LOCAL_PREBUILT_JNI_LIBS_x86 := @lib/x86/libwebviewchromium.so
 LOCAL_PREBUILT_JNI_LIBS_x86_64 := @lib/x86_64/libwebviewchromium.so
 
+LOCAL_OPTIONAL_USES_LIBRARIES := androidx.window.extensions android.ext.adservices
+LOCAL_ENFORCE_USES_LIBRARIES := false
+LOCAL_DEX_PREOPT := false
+
 include $(BUILD_PREBUILT)
