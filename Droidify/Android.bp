@@ -2,9 +2,6 @@ android_app_import {
     name: "Droidify",
     apk: "Droidify.apk",
     presigned: true,
-    optional_uses_libs: [
-        "androidx.window.extensions",
-        "androidx.window.sidecar",
-    ],
+    preprocessed: true,
     product_specific: true,
 }
