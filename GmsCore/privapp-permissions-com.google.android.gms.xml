@@ -16,5 +16,7 @@
         <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
         <permission name="android.permission.INTERACT_ACROSS_PROFILES" />
         <permission name="android.permission.INTERACT_ACROSS_USERS" />
+        <permission name="android.permission.PROVIDE_REMOTE_CREDENTIALS" />
+        <permission name="android.permission.PROVIDE_DEFAULT_ENABLED_CREDENTIAL_SERVICE" />
     </privapp-permissions>
 </permissions>
