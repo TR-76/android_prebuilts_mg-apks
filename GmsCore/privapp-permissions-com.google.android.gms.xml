@@ -18,5 +18,6 @@
         <permission name="android.permission.INTERACT_ACROSS_USERS" />
         <permission name="android.permission.PROVIDE_REMOTE_CREDENTIALS" />
         <permission name="android.permission.PROVIDE_DEFAULT_ENABLED_CREDENTIAL_SERVICE" />
+        <permission name="android.permission.DUMP" />
     </privapp-permissions>
 </permissions>
